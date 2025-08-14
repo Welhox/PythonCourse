@@ -1,5 +1,4 @@
 from warnings import catch_warnings
-
 # TODO test the todo
 
 MENU = {
